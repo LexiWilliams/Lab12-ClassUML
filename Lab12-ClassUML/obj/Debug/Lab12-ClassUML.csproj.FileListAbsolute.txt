@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\bin\Debug\Lab12-ClassUML.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\bin\Debug\Lab12-ClassUML.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\bin\Debug\Lab12-ClassUML.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\obj\Debug\Lab12-ClassUML.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\obj\Debug\Lab12-ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\obj\Debug\Lab12-ClassUML.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab12-ClassUML\Lab12-ClassUML\obj\Debug\Lab12-ClassUML.pdb
